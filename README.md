@@ -13,6 +13,6 @@ The first potentiometer governs the overall duration of a complete cycle encompa
 On the other hand, the second potentiometer assumes the role of determining the distribution ratio of green light time between both sides of the intersection. To elucidate, when the second potentiometer is set to its midpoint (2.5 volts), an equal green time is allocated to both sides of the intersection. This ratio can be dynamically increased or decreased, offering flexibility in managing the durations. Customizable upper and lower thresholds for this ratio are also available for selection.
 
 
- *Created By Erfan Nourbakhsh*
+ *Implemented By Erfan Nourbakhsh*
  
  *Spring 2022*
